@@ -26,7 +26,7 @@ Autohotkey로 제작된 Windows용 SmartLEAD 확장 프로그램 입니다.
 
 # 정보
 > ## 개발자
-> * Gangsu Kim
+> * [Gangsu Kim][GansuKim]
 > * e-mail : gangsu1813@naver.com
 
 > ## 개발언어
@@ -34,3 +34,6 @@ Autohotkey로 제작된 Windows용 SmartLEAD 확장 프로그램 입니다.
 
 > ## License
 > * 라이선스 확인 중 
+
+<!-- Markdwon Links-->
+[GansuKim]: https://github.com/GangsuKim
