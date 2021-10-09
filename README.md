@@ -3,7 +3,8 @@
 
 ![Generic badge](https://img.shields.io/badge/Version-valpha.0.1-red.svg)
 ![Generic badge](https://img.shields.io/badge/Publishing-Not_for_now-red.svg)
-![Generic badge](https://img.shields.io/badge/Language-Autohotkey-green.svg)  
+![Generic badge](https://img.shields.io/badge/Language-Autohotkey-green.svg)
+![Generic badge](https://img.shields.io/badge/Last_Update-2021Sep20-green.svg)  
 Autohotkey로 제작된 Windows용 SmartLEAD 확장 프로그램 입니다.  
 현재 라이센스 확인 및 배포 준비중에 있습니다.
 
@@ -18,8 +19,7 @@ Autohotkey로 제작된 Windows용 SmartLEAD 확장 프로그램 입니다.
 </br>
 
 # 업데이트 내역
-* Valpha.0.1 (2021.10.09)
-   * Github에 프로그램 Repo 생성
+* Valpha.0.1 (2021.09.20)
    * Alpha Test를 위한 배포용 프로그램  
 
 </br>
