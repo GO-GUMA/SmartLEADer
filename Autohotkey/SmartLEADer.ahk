@@ -16,7 +16,7 @@ if(!ConnectedToInternet())
 }
 
 Version := "Valpha.0.1"
-goto, CodeStart ; place for version check - for github
+goto, codeStart ; place for version check - for github
 Return
 
 CodeStart:
@@ -92,7 +92,7 @@ IfNotInString, LoginCallData,모두 읽음으로 표시
 	Progress, off
 	MsgBox, 16, SmartLEADer, 아이디/비밀번호가 일치하지 않습니다.
 	FileDelete, info.gof
-	return
+	exitApp
 	;goto, CodeStart
 }
 
@@ -981,7 +981,7 @@ if(TaskLoadCheck)
   Copyright ⓒ2020-%A_Year% Gangsu Kim
   
 현재 버전
-  %Version% 2021Sep20
+  %Version% 2021Oct15
   
 본 프로그램의 상업적 판매를 제한합니다.
 	)
