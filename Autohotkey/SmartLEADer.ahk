@@ -1,8 +1,8 @@
-#Include Crypt.ahk
-#Include CryptConst.ahk
-#Include CryptFoos.ahk
-#include ReadUrl.ahk
-#Include TimeClac.ahk ; Time calculation algorithm
+#Include LIB\Crypt.ahk
+#Include LIB\CryptConst.ahk
+#Include LIB\CryptFoos.ahk
+#include LIB\ReadUrl.ahk
+#Include LIB\TimeClac.ahk ; Time calculation algorithm
 
 ; === Check First attemp ===
 StateOfStart := 0
