@@ -6,7 +6,7 @@
 ![Generic badge](https://img.shields.io/badge/Language-Autohotkey-green.svg)
 ![Generic badge](https://img.shields.io/badge/Last_Update-2021Sep20-green.svg)  
 Autohotkey로 제작된 Windows용 SmartLEAD 확장 프로그램 입니다.  
-현재 라이센스 확인 및 배포 준비중에 있습니다.
+로그인을 통해 수강 내역, 과제, 퀴즈를 확인 할 수 있습니다.
 
 <img src="img/Intro.PNG" width="500"/>  
 
@@ -33,7 +33,7 @@ Autohotkey로 제작된 Windows용 SmartLEAD 확장 프로그램 입니다.
 > <img height="30" src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/>
 
 > ## License
-> * 라이선스 확인 중 
+> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />이 저작물은 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0 국제 라이선스</a>에 따라 이용할 수 있습니다.
 
 <!-- Markdwon Links-->
 [GansuKim]: https://github.com/GangsuKim
