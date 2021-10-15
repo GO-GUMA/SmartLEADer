@@ -22,6 +22,8 @@ Autohotkey로 제작된 Windows용 SmartLEAD 확장 프로그램 입니다.
 * Valpha.0.1 (2021.09.20)
    * Alpha Test를 위한 배포용 프로그램  
 
+* Valpha.0.1.1 (2021.10.16)
+   * 로그인 데이터 삭제시 발생하던 문제 해결  
 </br>
 
 # 정보
