@@ -4,7 +4,7 @@
 ![Generic badge](https://img.shields.io/badge/Version-valpha.0.1-red.svg)
 ![Generic badge](https://img.shields.io/badge/Publishing-Not_for_now-red.svg)
 ![Generic badge](https://img.shields.io/badge/Language-Autohotkey-green.svg)
-![Generic badge](https://img.shields.io/badge/Last_Update-2021Sep20-green.svg)  
+![Generic badge](https://img.shields.io/badge/Last_Update-2021Oct15-green.svg)  
 Autohotkey로 제작된 Windows용 SmartLEAD 확장 프로그램 입니다.  
 로그인을 통해 수강 내역, 과제, 퀴즈를 확인 할 수 있습니다.
 
