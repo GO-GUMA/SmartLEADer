@@ -15,7 +15,7 @@ if(!ConnectedToInternet())
 	Exitapp
 }
 
-Version := "Valpha.0.1"
+Version := "Valpha.0.1.1"
 goto, codeStart ; place for version check - for github
 Return
 

@@ -3,7 +3,6 @@
 #Include LIB\CryptFoos.ahk
 #include LIB\ReadUrl.ahk
 #Include LIB\TimeClac.ahk ; Time calculation algorithm
-#Include versionCheck.ahk
 
 ; === Check First attemp ===
 StateOfStart := 0
@@ -16,7 +15,7 @@ if(!ConnectedToInternet())
 	Exitapp
 }
 
-Version := "Valpha.0.1"
+Version := "Valpha.0.1.1"
 goto, codeStart ; place for version check - for github
 Return
 
